@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="https://github.com/AlbertoPerereira/Prompt-for-podcast/issues/2#issue-3610368679"
+    src="https://github.com/AlbertoPerereira/Prompt-for-podcast/blob/474aed4a8c3c6e6819d57a3137acbf5ce22a6133/capapodcast.jpg"
     width="300"
 />
 </p>
